@@ -1,2 +1,4 @@
 # dockerizing-demo
-dockerizing a ruby on rails applizcation 
+dockerizing a ruby on rails applizcation
+
+new update  
